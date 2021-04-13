@@ -1,4 +1,4 @@
-Copyright (c) [YEAR] [NAME]
+Copyright (c) {{ year }} {{ organization }}
 Acing Development Content License
 
 Permission is granted to any person obtaining a copy of this software to modify and distribute
